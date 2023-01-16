@@ -1,0 +1,165 @@
+category,subcategory,descriptive_name,vienna_convention_category,european_class
+Dangerous warning,Dangerous warning,Right bend,A1aA,1
+Dangerous warning,Dangerous warning,Left bend,A1bA,2
+Dangerous warning,Dangerous warning,Double bend (left),A1cA,3
+Dangerous warning,Dangerous warning,Double bend (right),A1cA,4
+Dangerous warning,Dangerous warning,Dangerous descent,A2a,5
+Dangerous warning,Dangerous warning,Steep ascent,A3a,6
+Dangerous warning,Dangerous warning,Carriageway narrows (both),A4a,7
+Dangerous warning,Dangerous warning,Carriageway narrows (right),A4b,8
+Dangerous warning,Dangerous warning,Carriageway narrows (left),A4b,9
+Dangerous warning,Dangerous warning,Road leads on to quay or river bank,A6,10
+Dangerous warning,Dangerous warning,Uneven road (1 bump),A7bA,11
+Dangerous warning,Dangerous warning,Uneven road (2 bump),A7aA,12
+Dangerous warning,Dangerous warning,Slippery road,A9,13
+Dangerous warning,Dangerous warning,Loose gravel,A10bA,14
+Dangerous warning,Dangerous warning,Falling rocks,A11a,15
+Dangerous warning,Dangerous warning,Pedestrian crossing,A12,16
+Dangerous warning,Dangerous warning,Children (School),A13,17
+Dangerous warning,Dangerous warning,Cyclists entering or crossing,A14A,18
+Dangerous warning,Dangerous warning,Domestic animals crossing,A15a,19
+Dangerous warning,Dangerous warning,Wild animals crossing,A15b,20
+Dangerous warning,Dangerous warning,Road works,A16,21
+Dangerous warning,Dangerous warning,Light signals,A17aA,22
+Dangerous warning,Dangerous warning,Intersection,A18aA,23
+Dangerous warning,Dangerous warning,Intersection with road,A19aA,24
+Dangerous warning,Dangerous warning,Roundabout,A22,25
+Dangerous warning,Dangerous warning,Two-way traffic,A23,26
+Dangerous warning,Dangerous warning,Level-crossings with gates,A25,27
+Dangerous warning,Dangerous warning,Other level-crossings,A26,28
+Dangerous warning,Dangerous warning,Inmediate level-crossing,A28,29
+Dangerous warning,Dangerous warning,Level-crossings additional signs,A29,30
+Dangerous warning,Dangerous warning,Airfield,A30,31
+Dangerous warning,Dangerous warning,Other dangers,A32,32
+Dangerous warning,Dangerous warning,Snow,,33
+Dangerous warning,Dangerous warning,Riders on horseback,,34
+Regulartory,Priority ,Give way,B1,35
+Regulartory,Priority ,Stop,B2,36
+Regulartory,Priority ,Priority road,B3,37
+Regulartory,Priority ,End of priority,B4,38
+Regulartory,Priority ,Priority for oncoming traffic,B5,39
+Regulartory,Priority ,Priority over oncoming traffic,B6,40
+Regulartory,Prohibitory,No entry,C1a,41
+Regulartory,Prohibitory,Closed to all vehicles in both directions,C2,42
+Regulartory,Prohibitory,No entry for cycles,C3c,43
+Regulartory,Prohibitory,No entry for vehicle drawing a trailer,C3f,44
+Regulartory,Prohibitory,No entry for power driven vehicles,C4a,45
+Regulartory,Prohibitory,No entry for vehicles having an overall widh exceeding … meters ,C5,46
+Regulartory,Prohibitory,No entry for vehicles having an overall height exceeding … meters,C6,47
+Regulartory,Prohibitory,No entry for vehicles exceeding … tonnes laden mass,C7,48
+Regulartory,Prohibitory,No entry for vehicles having a mass exceeding … tonnes on one axle,C8,49
+Regulartory,Prohibitory,No entry for trucks ,C9,50
+Regulartory,Prohibitory,No left turn,C11a,51
+Regulartory,Prohibitory,No right turn ,C11b,52
+Regulartory,Prohibitory,No U-turn,C12,53
+Regulartory,Prohibitory,Overtaking prohibited,C13aa,54
+Regulartory,Prohibitory,Overtaking by goods vehicles prohibited,C13ba,55
+Regulartory,Prohibitory,Maximum speed limit 10,C14,56
+Regulartory,Prohibitory,Maximum speed limit 20,C14,57
+Regulartory,Prohibitory,Maximum speed limit 25,C14,58
+Regulartory,Prohibitory,Maximum speed limit 30,C14,59
+Regulartory,Prohibitory,Maximum speed limit 40,C14,60
+Regulartory,Prohibitory,Maximum speed limit 50,C14,61
+Regulartory,Prohibitory,Maximum speed limit 60,C14,62
+Regulartory,Prohibitory,Maximum speed limit 70,C14,63
+Regulartory,Prohibitory,Maximum speed limit 80,C14,64
+Regulartory,Prohibitory,Maximum speed limit 90,C14,65
+Regulartory,Prohibitory,Maximum speed limit 100,C14,66
+Regulartory,Prohibitory,Maximum speed limit 110,C14,67
+Regulartory,Prohibitory,Maximum speed limit 120,C14,68
+Regulartory,Prohibitory,Passing without stopping prohibited,C16,69
+Regulartory,Prohibitory,End of all local prohibitions imposed on moving vehicles,C17a,70
+Regulartory,Prohibitory,End of maximum speed limit,C17b,71
+Regulartory,Prohibitory,End of prohibition of overtaking,C17c,72
+Regulartory,Prohibitory,End of prohibition of overtaking for goods vehicles,C17d,73
+Regulartory,Prohibitory,Parking prohibited ,C18,74
+Regulartory,Prohibitory,Parking prohibited (first half month),C18,75
+Regulartory,Prohibitory,Parking prohibited (last half month),C18,76
+Regulartory,Prohibitory,Standing and parking prohibited ,C19,77
+Regulartory,Prohibitory,End of parking prohibited ,,78
+Regulartory,Prohibitory,No photos,,79
+Regulartory,Mandatory,Direction – Straight,D1a,80
+Regulartory,Mandatory,Direction – Right,D1a,81
+Regulartory,Mandatory,Direction – Left,D1a,82
+Regulartory,Mandatory,Direction – Straight or Right,D1a,83
+Regulartory,Mandatory,Direction – Straight or Left,D1a,84
+Regulartory,Mandatory,Direction – Turn right,D1a,85
+Regulartory,Mandatory,Direction – Turn left,D1a,86
+Regulartory,Mandatory,Pass Right,D2,87
+Regulartory,Mandatory,Pass Left,D2,88
+Regulartory,Mandatory,Pass Either side,D2,89
+Regulartory,Mandatory,Compulsory roundabout,D3,90
+Regulartory,Mandatory,Compulsory cycle track,D4,91
+Regulartory,Mandatory,Compulsory footpath,D5,92
+Regulartory,Mandatory,Compulsory cycle track - footpath,D11a,93
+Regulartory,Mandatory,Compulsory cycle track - footpath,D11b,94
+Regulartory,Mandatory,Compulsory bus,,95
+Regulartory,Mandatory,End of compulsory bus,,96
+Regulartory,Mandatory,End of compulsory cycle track,,97
+Regulartory,Mandatory,End of pedestrian track,,98
+Regulartory,Special regulations,Lanes reserved for certain vehicle type,E2b,99
+Regulartory,Special regulations,One-way (Straight),E3a,100
+Regulartory,Special regulations,One-way (Right),E3b,101
+Regulartory,Special regulations,One-way (Left),E3ab,102
+Regulartory,Special regulations,Motorway,E5a,103
+Regulartory,Special regulations,Road for motor vehicles,E6a,104
+Regulartory,Special regulations,Beginning of area,E7,105
+Regulartory,Special regulations,End of area,E8,106
+Regulartory,Special regulations,Maximum speed zone,E9d,107
+Regulartory,Special regulations,End of maximum speed zone,E10d,108
+Regulartory,Special regulations,Pedestrian crossing,E12a,109
+Regulartory,Special regulations,Parking,E14a,110
+Regulartory,Special regulations,Parking for handicap,E14a and H7,111
+Regulartory,Special regulations,Parking for cars,E14a,112
+Regulartory,Special regulations,Parking for goods vehicles,E14a,113
+Regulartory,Special regulations,Parking for bus,E14a,114
+Regulartory,Special regulations,Parking on pavement or verge,E14a,115
+Regulartory,Special regulations,Parking on the right,E14a,116
+Regulartory,Special regulations,Parking on the left,E14a,117
+Regulartory,Special regulations,Parking garage,E14a,118
+Regulartory,Special regulations,Bus stop,E15,119
+Regulartory,Special regulations,Cyclists-Pedestrians,,120
+Regulartory,Special regulations,Cycle track,,121
+Regulartory,Special regulations,Cyclists entering or crossing,,122
+Regulartory,Special regulations,Residential area,,123
+Regulartory,Special regulations,End of residential area,,124
+Regulartory,Special regulations,Uneven road (1 bump),,125
+Regulartory,Special regulations,Pass right,,126
+Informative,Information,End of road works,,127
+Informative,Information,Filling station,F4,128
+Informative,Information,Hotel or motel,F5,129
+Informative,Information,Restaurant,F6,130
+Informative,Information,Refreshments or cafeteria,F7,131
+Informative,Information,Children on the road,,132
+Informative,Information,School patrol,,133
+Informative,Information,Water protection area,,134
+Informative,Information,River,,135
+Informative,Information,Road construction,,136
+Informative,Information,Police station,,137
+Informative,Information,Radio station,,138
+Informative,Direction ,Advance direction signs,G1,139
+Informative,Direction ,Direction to place,G4-G9,140
+Informative,Direction ,Number and direction of traffic lanes,G11,141
+Informative,Direction ,Closure of a traffic lane,G12,142
+Informative,Direction ,No through road,G13,143
+Informative,Direction ,General speed limits,G14,144
+Informative,Direction ,Exit from motorway,G22,145
+Informative,Direction ,Carriage of vehicles,,146
+Informative,Additional panels,Distance to place,H1,147
+Informative,Additional panels,Length of dangerous section,H2,148
+Informative,Additional panels,Intersection priority,H8,149
+Informative,Additional panels,Ice/Snow,H9,150
+Informative,Additional panels,Directional panel (arrows),,151
+Informative,Additional panels,Tram,,152
+Informative,Additional panels,Car,,153
+Informative,Additional panels,Bus,,154
+Informative,Additional panels,Truck,,155
+Informative,Additional panels,Handicap,,156
+Informative,Additional panels,Bicycle,,157
+Informative,Additional panels,Timing,,158
+Informative,Additional panels,Supplemental panel,,159
+Others,Others,Limited access on side,,160
+Others,Others,Curve right,,161
+Others,Others,Curve left,,162
+Others,Others,Barrier,,163
+Others,Others,Obstacle,,164

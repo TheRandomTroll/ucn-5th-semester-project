@@ -1,0 +1,201 @@
+TensorFlow 2.0 Upgrade Script
+-----------------------------
+Converted 7 files
+Detected 0 issues that require attention
+--------------------------------------------------------------------------------
+================================================================================
+Detailed log follows:
+
+================================================================================
+================================================================================
+Input tree: 'mrcnn'
+================================================================================
+--------------------------------------------------------------------------------
+Processing file 'mrcnn/config.py'
+ outputting to 'mrcnn/config.py'
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Processing file 'mrcnn/model.py'
+ outputting to 'mrcnn/model.py'
+--------------------------------------------------------------------------------
+
+287:62: INFO: Added keywords to args of function 'tf.shape'
+324:55: INFO: Added keywords to args of function 'tf.shape'
+325:24: INFO: Added keywords to args of function 'tf.pad'
+399:17: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+431:44: INFO: Added keywords to args of function 'tf.shape'
+439:43: INFO: Added keywords to args of function 'tf.shape'
+445:27: INFO: Added keywords to args of function 'tf.shape'
+445:48: INFO: Added keywords to args of function 'tf.shape'
+466:35: INFO: Added keywords to args of function 'tf.shape'
+467:26: INFO: Added keywords to args of function 'tf.shape'
+482:32: INFO: Added keywords to args of function 'tf.shape'
+482:53: INFO: Added keywords to args of function 'tf.shape'
+509:29: INFO: Added keywords to args of function 'tf.shape'
+518:19: INFO: Added keywords to args of function 'tf.boolean_mask'
+520:35: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+526:15: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+527:19: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+538:20: INFO: Added keywords to args of function 'tf.reduce_max'
+542:18: INFO: Added keywords to args of function 'tf.reduce_max'
+545:23: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+547:23: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+554:21: INFO: Added keywords to args of function 'tf.shape'
+565:28: INFO: Added keywords to args of function 'tf.cond'
+566:19: INFO: Added keywords to args of function 'tf.shape'
+567:26: INFO: Added keywords to args of function 'tf.argmax'
+579:38: INFO: Added keywords to args of function 'tf.transpose'
+597:26: INFO: Added keywords to args of function 'tf.shape'
+611:8: INFO: Added keywords to args of function 'tf.shape'
+612:49: INFO: Added keywords to args of function 'tf.shape'
+613:11: INFO: Added keywords to args of function 'tf.pad'
+614:19: INFO: Added keywords to args of function 'tf.pad'
+615:23: INFO: Added keywords to args of function 'tf.pad'
+616:13: INFO: Added keywords to args of function 'tf.pad'
+617:12: INFO: Added keywords to args of function 'tf.pad'
+700:16: INFO: Added keywords to args of function 'tf.argmax'
+716:11: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+719:20: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+734:14: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+744:47: INFO: Added keywords to args of function 'tf.shape'
+745:21: INFO: Added keywords to args of function 'tf.pad'
+756:35: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+764:26: INFO: Added keywords to args of function 'tf.shape'
+777:43: INFO: Added keywords to args of function 'tf.shape'
+778:17: INFO: Added keywords to args of function 'tf.pad'
+857:33: INFO: Added keywords to args of function 'tf.shape'
+869:50: INFO: Added keywords to args of function 'tf.shape'
+1035:14: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+1043:20: INFO: Added keywords to args of function 'tf.size'
+1060:14: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+1072:20: INFO: Added keywords to args of function 'tf.size'
+1093:21: INFO: Added keywords to args of function 'tf.argmax'
+1108:11: INFO: Added keywords to args of function 'tf.reduce_sum'
+1108:33: INFO: Added keywords to args of function 'tf.reduce_sum'
+1126:22: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+1136:20: INFO: Added keywords to args of function 'tf.size'
+1154:17: INFO: Added keywords to args of function 'tf.shape'
+1156:17: INFO: Added keywords to args of function 'tf.shape'
+1160:17: INFO: Added keywords to args of function 'tf.transpose'
+1164:18: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+1175:20: INFO: Added keywords to args of function 'tf.size'
+2189:19: INFO: Added keywords to args of function 'tf.reduce_mean'
+2203:73: INFO: Added keywords to args of function 'tf.size'
+2220:16: INFO: Added keywords to args of function 'tf.reduce_mean'
+2852:24: INFO: Added keywords to args of function 'tf.reduce_sum'
+2853:12: INFO: Added keywords to args of function 'tf.boolean_mask'
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Processing file 'mrcnn/model_temp.py'
+ outputting to 'mrcnn/model_temp.py'
+--------------------------------------------------------------------------------
+
+287:62: INFO: Added keywords to args of function 'tf.shape'
+324:55: INFO: Added keywords to args of function 'tf.shape'
+325:24: INFO: Added keywords to args of function 'tf.pad'
+399:17: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+431:44: INFO: Added keywords to args of function 'tf.shape'
+439:43: INFO: Added keywords to args of function 'tf.shape'
+445:27: INFO: Added keywords to args of function 'tf.shape'
+445:48: INFO: Added keywords to args of function 'tf.shape'
+466:35: INFO: Added keywords to args of function 'tf.shape'
+467:26: INFO: Added keywords to args of function 'tf.shape'
+482:32: INFO: Added keywords to args of function 'tf.shape'
+482:53: INFO: Added keywords to args of function 'tf.shape'
+509:29: INFO: Added keywords to args of function 'tf.shape'
+518:19: INFO: Added keywords to args of function 'tf.boolean_mask'
+520:35: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+526:15: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+527:19: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+538:20: INFO: Added keywords to args of function 'tf.reduce_max'
+542:18: INFO: Added keywords to args of function 'tf.reduce_max'
+545:23: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+547:23: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+553:23: INFO: Renamed 'tf.random_shuffle' to 'tf.random.shuffle'
+554:21: INFO: Added keywords to args of function 'tf.shape'
+558:23: INFO: Renamed 'tf.random_shuffle' to 'tf.random.shuffle'
+565:28: INFO: Added keywords to args of function 'tf.cond'
+566:19: INFO: Added keywords to args of function 'tf.shape'
+567:26: INFO: Added keywords to args of function 'tf.argmax'
+579:38: INFO: Added keywords to args of function 'tf.transpose'
+597:26: INFO: Added keywords to args of function 'tf.shape'
+611:8: INFO: Added keywords to args of function 'tf.shape'
+612:49: INFO: Added keywords to args of function 'tf.shape'
+613:11: INFO: Added keywords to args of function 'tf.pad'
+614:19: INFO: Added keywords to args of function 'tf.pad'
+615:23: INFO: Added keywords to args of function 'tf.pad'
+616:13: INFO: Added keywords to args of function 'tf.pad'
+617:12: INFO: Added keywords to args of function 'tf.pad'
+700:16: INFO: Added keywords to args of function 'tf.argmax'
+716:11: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+719:20: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+734:14: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+744:47: INFO: Added keywords to args of function 'tf.shape'
+745:21: INFO: Added keywords to args of function 'tf.pad'
+756:35: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+764:26: INFO: Added keywords to args of function 'tf.shape'
+777:43: INFO: Added keywords to args of function 'tf.shape'
+778:17: INFO: Added keywords to args of function 'tf.pad'
+858:33: INFO: Added keywords to args of function 'tf.shape'
+870:50: INFO: Added keywords to args of function 'tf.shape'
+1036:14: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+1044:20: INFO: Added keywords to args of function 'tf.size'
+1061:14: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+1073:20: INFO: Added keywords to args of function 'tf.size'
+1094:21: INFO: Added keywords to args of function 'tf.argmax'
+1109:11: INFO: Added keywords to args of function 'tf.reduce_sum'
+1109:33: INFO: Added keywords to args of function 'tf.reduce_sum'
+1127:22: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+1137:20: INFO: Added keywords to args of function 'tf.size'
+1155:17: INFO: Added keywords to args of function 'tf.shape'
+1157:17: INFO: Added keywords to args of function 'tf.shape'
+1161:17: INFO: Added keywords to args of function 'tf.transpose'
+1165:18: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+1176:20: INFO: Added keywords to args of function 'tf.size'
+2174:16: INFO: Added keywords to args of function 'tf.reduce_mean'
+2181:73: INFO: Added keywords to args of function 'tf.size'
+2198:16: INFO: Added keywords to args of function 'tf.reduce_mean'
+2829:24: INFO: Added keywords to args of function 'tf.reduce_sum'
+2830:12: INFO: Added keywords to args of function 'tf.boolean_mask'
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Processing file 'mrcnn/parallel_model.py'
+ outputting to 'mrcnn/parallel_model.py'
+--------------------------------------------------------------------------------
+
+72:21: INFO: `name` passed to `name_scope`. Because you may be re-entering an existing scope, it is not safe to convert automatically,  the v2 name_scope does not support re-entering scopes by name.
+
+72:21: INFO: Renamed 'tf.name_scope' to 'tf.compat.v1.name_scope'
+132:8: INFO: Renamed 'tf.reset_default_graph' to 'tf.compat.v1.reset_default_graph'
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Processing file 'mrcnn/utils.py'
+ outputting to 'mrcnn/utils.py'
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Processing file 'mrcnn/visualize.py'
+ outputting to 'mrcnn/visualize.py'
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Processing file 'mrcnn/__init__.py'
+ outputting to 'mrcnn/__init__.py'
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
